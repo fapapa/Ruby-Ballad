@@ -5,10 +5,15 @@ A ballad in four stanzas.
 ## [0]
 
 Still in your youth, your Ruby cheeks glow
+
 In an adept coder's hands, your methods they flow
+
 Born in the land of the red rising sun
+
 Your symbols, your strings, your classes, your "1"
+
 Your procs, your nil, your lambda's too
+
 All praise in unison, "I'm an object in you"
 
 ```ruby
@@ -25,10 +30,15 @@ All praise in unison, "I'm an object in you"
 ## [1]
 
 With your father of SmallTalk, your mother of Perl
+
 You speak with a Lisp, you iterate with a twirl
+
 "Return, return," I beg, I implore
+
 Render your value with every statement, every "for"
+
 You keep not your expressions from yielding to me
+
 Even an "if" has a value to see
 
 ```ruby
@@ -42,10 +52,15 @@ Even an "if" has a value to see
 ## [2]
 
 The other fair maidens, be they Java or C,
+
 Covet their operators, "They're for no one but me!"
+
 "Use my plus, use my minus, use my multiply too,"
+
 "As methods in your modules and classes named Foo."
+
 "My built-ins are no better than your classes, my dude,"
+
 "With special method names they may be imbued."
 
 ```ruby
@@ -107,12 +122,19 @@ Covet their operators, "They're for no one but me!"
 ## [3]
 
 Mirrors, and smoke, and mystery are your shroud
+
 Your methods and ways you jealously cloud
+
 When first I attempt to write code that writes code
+
 Trembling, shaking, and fearfully woe'd
+
 Macro and method that gives birth to method
+
 What is this black magic that leaves me but wretched?
+
 To write code that writes… seems too hard to try
+
 But gently you beckon, "Come, make your code DRY!"
 
 ```ruby
@@ -154,12 +176,19 @@ But gently you beckon, "Come, make your code DRY!"
 ```
 
 Ah, Ruby. Oh, Ruby. Are there any as fair?
+
 You were created for beauty, with painstaking care
+
 You are so much more than the sum of your parts
+
 You're not just for Rails and online shopping carts
+
 Yet "Python" they yell in the streets and the squares
+
 Forlorn and forgot, your bed drenched with tears
+
 "She wastes all our memory," goes the refrain
+
 If you fix all those problems, will you surface again?
 
 https://ruby-doc.com/docs/ProgrammingRuby/
